@@ -1,0 +1,13 @@
+.comments {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.confirm__container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
